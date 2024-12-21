@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.SignUP.resources
+C:\Users\DELL\Desktop\Temp\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.ShowData.resources
